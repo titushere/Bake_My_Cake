@@ -1,0 +1,37 @@
+#cake-content {
+    display: grid;
+    grid-template-columns: 65% 35%;
+    background-color: #FFABAB;
+    color: #D14D72;
+    padding-top: 20px;
+}
+#cake-detail{
+    margin: 30px;
+    text-align: center;
+}
+img{
+    width: 60%;
+    border-radius: 10px;
+}
+#description{
+    padding-top: 20px;
+}
+button{
+    margin-bottom: 20px;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-weight: 600;
+}
+h4{
+    font-weight: 650;
+}
+#cake-form{
+    text-align: center;
+    padding-top: 20px;
+}
+mat-form-field{
+    width: 50%;
+}

@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    margin: 0px 600px;
+    /* margin-top: 150px; */
+    border: 1px solid #D14D72;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #FCC8D1;
+    position: relative;
+    top: 30%;
+}
+h4{
+    color: #D14D72;
+    font-weight: bold;
+}
+input, button{
+    border-radius: 20px;
+    height: 25px;
+}
+button{
+    background-color: #FCC8D1;
+    color: #D14D72;
+    font-weight: bold;
+    height: 30px;
+    margin-left: 5px;
+}
+button:hover{
+    background-color: #D14D72;
+    color: #FCC8D1;
+    cursor: pointer;
+}
+section{
+    background-color: #FFABAB;
+    height: 78%;
+}
